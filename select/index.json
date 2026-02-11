@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "knife",
+  "base_artist": "04 Limited Sazabys",
+  "createdAt": "2026-02-11T09:16:29.428724Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gamma Knife",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_Gamma_Knife_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Knife Prty",
+      "artist": "Deftones",
+      "has_synced": true,
+      "path": "select/02_Knife_Prty_Deftones.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A Knife For The Girls",
+      "artist": "The Long Blondes",
+      "has_synced": true,
+      "path": "select/03_A_Knife_For_The_Girls_The_Long_Blondes.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Further (Jack Knife Lee remix)",
+      "artist": "Longview",
+      "has_synced": false,
+      "path": "select/04_Further_(Jack_Knife_Lee_remix)_Longview.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Knife",
+      "artist": "Misery Club",
+      "has_synced": false,
+      "path": "select/05_Knife_Misery_Club.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Knife in the Water",
+      "artist": "Memoryhouse",
+      "has_synced": true,
+      "path": "select/06_Knife_in_the_Water_Memoryhouse.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Like a Knife",
+      "artist": "Mia Doi Todd",
+      "has_synced": false,
+      "path": "select/07_Like_a_Knife_Mia_Doi_Todd.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Monkey!!!Knife!!!Fight!!!",
+      "artist": "Minus the Bear",
+      "has_synced": false,
+      "path": "select/08_Monkey!!!Knife!!!Fight!!!_Minus_the_Bear.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dirty Knife",
+      "artist": "Neko Case",
+      "has_synced": false,
+      "path": "select/09_Dirty_Knife_Neko_Case.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Twist the Knife",
+      "artist": "Neko Case",
+      "has_synced": true,
+      "path": "select/10_Twist_the_Knife_Neko_Case.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Exorcismic Breeding Knife",
+      "artist": "of Montreal",
+      "has_synced": true,
+      "path": "select/11_Exorcismic_Breeding_Knife_of_Montreal.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Control of the Knife",
+      "artist": "Girls Aloud",
+      "has_synced": true,
+      "path": "select/12_Control_of_the_Knife_Girls_Aloud.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "knife",
+      "artist": "04 Limited Sazabys",
+      "has_synced": false,
+      "path": "select/pl_01_knife_04_Limited_Sazabys.txt"
+    }
+  ]
+}
